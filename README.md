@@ -10,5 +10,10 @@ I have downloaded the mp3 file through foreground service and updated the progre
 <ul>Draw view with other app  </ul> 
 
 <h1> Demo </h1>
-https://github.com/HassanMuawia01/Foreground-Service/assets/145201697/2c3d94dd-08b3-4f9f-920c-6663bb6c5c4b
+
+
+
+https://github.com/HassanMuawia01/Foreground-Service/assets/145201697/40021fa4-666b-4788-8fe3-f3292b2b6553
+
+
 
